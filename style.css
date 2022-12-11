@@ -1,0 +1,36 @@
+.megamenu .collapse,
+.megamenu .dropup,
+.megamenu .dropdown {
+  position: static;
+}
+
+.megamenu .container {
+  position: relative;
+}
+
+.megamenu .dropdown-menu {
+  left: auto;
+}
+
+.megamenu .megamenu-content1 {
+  padding: .4rem;
+}
+
+.megamenu .megamenu-content3 {
+  padding-left: .7rem;
+}
+
+.megamenu .dropdown.megamenu-fullwidth .dropdown-menu,
+.megamenu .dropup.megamenu-fullwidth .dropdown-menu {
+  left: 0;
+  right: 0;
+}
+
+.megamenu .card,
+.megamenu .card .list-group-item{
+	border:none;
+}
+
+.list-group-item p.small{
+	margin-bottom: 0;
+}
